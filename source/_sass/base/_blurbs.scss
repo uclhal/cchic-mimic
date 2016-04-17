@@ -1,0 +1,17 @@
+.blurb {
+	padding: 2em 2em;
+	width: 100%;
+	& p {
+		margin-top: -1em;
+		max-width: 30em;
+		margin-right: auto;
+		margin-left: auto;
+	}
+	& .fa {
+	  color: $lighter-gray-color;
+	  font-size: 7em;
+	}
+	& h2 {
+		margin-top: 0.5em;
+	}
+}
