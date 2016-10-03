@@ -28,7 +28,7 @@ baseurl: ""
 # Author settings
 author:
   name      : Critical Care Data London
-  email     : hello@datascicc.org
+  # email     : hello@datascicc.org
   url       : http://datascicc.org/
   twitter   : https://twitter.com/criticaldatauk
 
