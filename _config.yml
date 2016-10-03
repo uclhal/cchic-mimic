@@ -17,29 +17,23 @@ markdown    : kramdown
 highlighter : rouge
 
 # SEO settings
-title: Data Science for Doctors
-description: "Learn the skills to supercharge your next audit, quality improvement or research project"
+title: Critical Care Data London - Datathon 2016
+description: "We invites clinicians and data scientists, experts and novices to come and explore two iconic clinical data repositories with talks from experts in electronic health records, 'big data' and database design."
 keywords: "healthcare, medicine, data, science, research, audit, quality, R, python, excel, doctor, nurse"
 
 # Site settings
-url: http://datascibc.org/
+url: http://datascicc.org/
 baseurl: ""
 
 # Author settings
 author:
-  name      : Data Science Breakfast Club
-  # job       : Frontend Engineer
-  # bio       : "Enthusiast performance, responsive design and usability, always looking for the best project and good coffee."
-  # thumb     : /images/author.jpg
-  email     : hello@datascibc.org
-  url       : http://datascibc.org/
-  # github    : http://github.com/nandomoreirame
-  twitter   : https://twitter.com/datascibc
-  # facebook  : http://facebook.com/fernando.dev
-  # linkedin  : http://linkedin.com/in/nandomoreirame
+  name      : Critical Care Data London
+  email     : hello@datascicc.org
+  url       : http://datascicc.org/
+  twitter   : https://twitter.com/criticaldatauk
 
 # google_analytics: UA-52446115-1
 # repo: http://github.com/nandomoreirame/dotX
 
 # comments
-disqus_shortname: "DataSciBC"
+disqus_shortname: "CCD-Datathon-2016"
