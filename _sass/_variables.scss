@@ -30,11 +30,12 @@ $base-z-index: 0;
 
 // Colors
 //
-// $primary-color: #3cc76a;
-$primary-color: #37A8EC;  // blue background
+// $primary-color: #05455f;
+$primary-color: #075472;
 $white-color: #fff;
 $black-color: #000;
 $blue-color: #477dca;
+$highlight-color: #3db5bd;
 $dark-gray-color: lighten($black-color, 25%);
 $medium-gray-color: lighten($dark-gray-color, 20%);
 $light-gray-color: lighten($medium-gray-color, 20%);
