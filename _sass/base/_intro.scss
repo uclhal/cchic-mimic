@@ -5,6 +5,11 @@ body.home-intro {
   .intro {
     display: table-cell;
   }
+
+  .ccd-logo {
+    max-width: 60%;
+  }
+
 }
 
 .intro {
@@ -34,6 +39,7 @@ body.home-intro {
   @include media($min-tablet-large) {
     padding: 9em 0;
   }
+
 }
 
 .intro-title,
