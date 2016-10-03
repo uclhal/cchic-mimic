@@ -151,7 +151,7 @@
     margin-bottom: 1.7em;
     font-size: 1.3rem;
     font-weight: 800;
-    color: darken($primary-color, 5%);
+    color: $highlight-color;
     text-transform: uppercase;
 
     &::after {
