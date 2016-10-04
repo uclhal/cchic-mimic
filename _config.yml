@@ -18,7 +18,7 @@ highlighter : rouge
 
 # SEO settings
 title: Critical Care Data London - Datathon 2016
-description: "We invites clinicians and data scientists, experts and novices to come and explore two iconic clinical data repositories with talks from experts in electronic health records, 'big data' and database design."
+description: "We invite clinicians and data scientists, experts and novices to come and explore two iconic clinical data repositories with talks from experts in electronic health records, 'big data' and database design."
 keywords: "healthcare, medicine, data, science, research, audit, quality, R, python, excel, doctor, nurse"
 
 # Site settings
