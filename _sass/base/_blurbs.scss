@@ -14,4 +14,16 @@
 	& h2 {
 		margin-top: 0.5em;
 	}
+	& .partners {
+		& img {
+			max-width: 270px;
+			display: block;
+			margin: 4em auto;
+		}
+		margin-top: -2em;
+	}
+}
+.partners-parent {
+	margin-top: 1em;
+	margin-bottom: -6em;
 }
